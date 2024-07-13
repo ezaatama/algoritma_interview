@@ -1,0 +1,3 @@
+/*
+Buatlah sebuah fungsi untuk mengklasifikasikan angka genap dan ganjil dari list angka yang diberikan
+*/
